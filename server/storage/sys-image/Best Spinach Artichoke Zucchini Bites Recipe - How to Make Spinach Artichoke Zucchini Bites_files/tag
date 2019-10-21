@@ -1,0 +1,48 @@
+(function(w, d, s) {
+  try {
+    d = w.top.document || d; w = w.top.document ? w.top : w;
+  } catch (e) {}
+  var ttag = function() {
+    window.teadsObj = window.teadsObj || { 
+	adAvailable: [],  
+	noAd: [], 
+	complete: [], 
+}; 
+function teadsEvent(eventType) {
+	var eventArray = window.teadsObj[eventType]; 
+	var eventQuant = eventArray.length; 
+	for(var i = 0; i < eventQuant; i++) {
+		eventArray[i]();
+	}
+}
+var _tt_slot = '.module-recommended, .recommended-module', 
+	_tt_eoc = window.top.document.querySelector('.eoc-ad'), 
+	_tt_css = "margin : 0 auto 30px; max-width: 550px;",
+    _tt_eoc_recirc = window.top.document.querySelector('.recirc-end-of-content'),
+	_tt_eoc_mod = window.top.document.querySelector('.end-of-content-module');
+if((_tt_eoc && _tt_eoc_mod && _tt_eoc_mod.className.indexOf("rendered") >= 0) || _tt_eoc_recirc) {
+	_tt_slot = '.eoc-ad';
+	var _tt_eocImage = window.top.document.querySelectorAll('.endofcontent-image, .recirc-end-of-content .module-story--image');
+	if (_tt_eocImage.length > 0) {
+		var _tt_maxWidth = _tt_eocImage[0].offsetHeight * 16 /9;
+		if (window.top.innerWidth < 650) {
+			_tt_css = "margin : 0 auto; max-width: 1000px";
+		} else {
+			_tt_css = "margin : 0 auto; max-width: " + _tt_maxWidth + "px;";
+		}
+	}
+}
+    w.teads.page(14196).placement(43032, {slider: {allow_corner_position: false, allow_top_position: false}, "css":_tt_css,"callbacks":{"AdLoaded":function () {teadsEvent('adAvailable');},"AdVideoComplete":function () {teadsEvent('complete');},"AdError":function () {teadsEvent('noAd');},"AdStarted":function () {setTimeout(function(){ 
+    if (_tt_slot === ".eoc-ad" && window.top.innerWidth < 650) {
+        var _tt_inread = window.document.querySelector('.eoc-ad > .teads-inread');
+        _tt_eoc.style.height = _tt_inread.offsetHeight + "px";
+    }
+}, 100);}},"format":"inread","slot":{"insertBefore":true,"insertInside":true,"btf":false,"filter":function filter(slot) {var noTeads = window.top.document.querySelector('#noTeads');
+return !noTeads;},"selector":_tt_slot,"minimum":1}}).passback(function passback() {teadsEvent('noAd');}).serve();
+  };
+  if (w.teads && w.teads.page) { ttag(); }
+  else if (!w.teadsscript) {
+    s.src = '//a.teads.tv/media/format/v3/teads-format.min.js';
+    s.async = true; s.onload = ttag; w.teadsscript = d.getElementsByTagName('head')[0].appendChild(s);
+  }
+})(window, document, document.createElement('script'));

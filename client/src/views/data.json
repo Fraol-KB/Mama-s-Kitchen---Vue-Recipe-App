@@ -1,0 +1,323 @@
+[
+    {
+      "title": "Scrumbled Eggs",
+      "bestfor": "Breakfast",
+      "picture": "quiche-lorraine.jpg",
+      "pictures": [],
+      "ingredients": [
+        "2 Eggs ",
+        " 1 Spoon full of oil ",
+        " pinch of salt ",
+        " half a tomato"
+      ],
+      "steps": [
+        {
+          "detail": "Heat a steel pan for 2 minutes"
+        },
+        {
+          "detail": "Break and pour the eggs on the pan."
+        },
+        {
+          "detail": "Wait for 5 minutes while it is cooked"
+        },
+        {
+          "detail": "Put it the pan off the fire. Now its ready to be served."
+        }
+      ],
+      "id": "5d41f1c7526a4b0bc9bb5991",
+      "authorId": "5d422343526a4b0bc9bb5994"
+    },
+    {
+      "title": "movie Snacks",
+      "bestfor": "Snacks",
+      "picture": "movieSnacks_1564946668631.jpg",
+      "pictures": [],
+
+      "ingredients": [
+        "movie",
+        "snacks",
+        " friends"
+      ],
+      "steps": [
+        {
+          "detail": " put on your favorite movie"
+        },
+        {
+          "detail": "invite friends"
+        },
+        {
+          "detail": "dig into the food"
+        }
+      ],
+      "id": "5d4730f0e901a346a3742201",
+      "authorId": "5d422dcd526a4b0bc9bb5996"
+    },
+    {
+      "title": "Fish with tomatoes, potatoes, and onions",
+      "bestfor": "Lunch",
+      "pictures": ["Fishwithtomatoes,potatoes,andonions.jpg"],
+
+      "ingredients": [
+        "3 tbsp olive oil",
+        "5 large potatoes, cut into bite-size pieces",
+        " sea salt and freshly ground black pepper ",
+        " 4 garlic cloves, finely chopped",
+        "1 1⁄4lb (550g) cherry tomatoes, halved",
+        "1½ cups dry white wine",
+        "16 anchovy fillets in oil, drained"
+      ],
+      "steps": [
+        {
+          "detail": "Heat the oil in a large shallow heavy-based pan, add the potatoes, and season with sea salt and freshly ground black pepper. Cook over medium heat, stirring frequently, for 10–15 minutes or until beginning to turn golden brown. Lower the heat, then stir in the garlic and parsley and cook for a few seconds before adding the tomatoes."
+        },
+        {
+          "detail": " Cook for a few minutes, until the tomatoes begin to split, then raise the heat, add the wine, and allow to bubble for a couple of minutes while the alcohol evaporates. Decrease the heat to low, add the fish and the anchovies, cover, and cook for 10–15 minutes, or until the fish is cooked. Transfer to a large shallow serving dish and serve with a crisp dressed salad and some crusty bread."
+        }
+      ],
+      "id": "5d492a8be162f50ad2e6527f",
+      "authorId": "5d422343526a4b0bc9bb5994"
+    },
+    {
+      "title": "pork and clam cataplana",
+      "bestfor": "Dinner",
+      "picture": "porkandclamcataplana.jpg",
+      "pictures": [],
+
+      "ingredients": [
+        "movie",
+        "snacks",
+        " friends"
+      ],
+      "steps": [
+        {
+          "detail": " put on your favorite movie"
+        },
+        {
+          "detail": "invite friends"
+        },
+        {
+          "detail": "dig into the food"
+        }
+      ],
+      "id": "5d492a8be162f50ad2e65280",
+      "authorId": "5d422dcd526a4b0bc9bb5996"
+    },
+    {
+      "title": "lamb cutlets with butternut squash, beans, and mint",
+      "bestfor": "Lunch",
+      "picture": "lambcutletswithbutternutsquash,beans,andmint.jpg",
+      "pictures": [],
+
+      "ingredients": [
+        "3 tbsp olive oil",
+        "5 large potatoes, cut into bite-size pieces",
+        " sea salt and freshly ground black pepper ",
+        " 4 garlic cloves, finely chopped",
+        "1 1⁄4lb (550g) cherry tomatoes, halved",
+        "1½ cups dry white wine",
+        "16 anchovy fillets in oil, drained"
+      ],
+      "steps": [
+        {
+          "detail": "Heat the oil in a large shallow heavy-based pan, add the potatoes, and season with sea salt and freshly ground black pepper. Cook over medium heat, stirring frequently, for 10–15 minutes or until beginning to turn golden brown. Lower the heat, then stir in the garlic and parsley and cook for a few seconds before adding the tomatoes."
+        },
+        {
+          "detail": " Cook for a few minutes, until the tomatoes begin to split, then raise the heat, add the wine, and allow to bubble for a couple of minutes while the alcohol evaporates. Decrease the heat to low, add the fish and the anchovies, cover, and cook for 10–15 minutes, or until the fish is cooked. Transfer to a large shallow serving dish and serve with a crisp dressed salad and some crusty bread."
+        }
+      ],
+      "id": "5d492a8be162f50ad2e65281",
+      "authorId": "5d422343526a4b0bc9bb5994"
+    },
+    {
+      "title": "Cheese Burger",
+      "bestfor": "Lunch",
+      "picture": "1.jpg",
+      "pictures": [],
+
+      "ingredients": [
+        "3 tbsp olive oil",
+        "5 large potatoes, cut into bite-size pieces",
+        " sea salt and freshly ground black pepper ",
+        " 4 garlic cloves, finely chopped",
+        "1 1⁄4lb (550g) cherry tomatoes, halved",
+        "1½ cups dry white wine",
+        "16 anchovy fillets in oil, drained"
+      ],
+      "steps": [
+        {
+          "detail": "Heat the oil in a large shallow heavy-based pan, add the potatoes, and season with sea salt and freshly ground black pepper. Cook over medium heat, stirring frequently, for 10–15 minutes or until beginning to turn golden brown. Lower the heat, then stir in the garlic and parsley and cook for a few seconds before adding the tomatoes."
+        },
+        {
+          "detail": " Cook for a few minutes, until the tomatoes begin to split, then raise the heat, add the wine, and allow to bubble for a couple of minutes while the alcohol evaporates. Decrease the heat to low, add the fish and the anchovies, cover, and cook for 10–15 minutes, or until the fish is cooked. Transfer to a large shallow serving dish and serve with a crisp dressed salad and some crusty bread."
+        }
+      ],
+      "id": "5d492a8be162f50ad2e65282",
+      "authorId": "5d422dcd526a4b0bc9bb5996"
+    },
+    {
+      "title": "titke",
+      "bestfor": "Lunch",
+      "picture": "titke_1565082403716.jpg",
+      "pictures": [],
+
+      "ingredients": [
+        "no inc\\gredien"
+      ],
+      "steps": [
+        {
+          "detail": " none"
+        }
+      ],
+      "id": "5d4943239fc0140ac7a865c6",
+      "authorId": "5d422343526a4b0bc9bb5994"
+    },
+    {
+      "title": "image upload",
+      "bestfor": "Lunch",
+      "picture": "imageupload_1565352616362.jpg",
+      "ingredients": [
+        "image",
+        "upload method"
+      ],
+      "steps": [
+        {
+          "detail": " try to upload an image"
+        }
+      ],
+      "id": "5d4d62a85324a71eec070315",
+      "authorId": "5d422dcd526a4b0bc9bb5996",
+      "country": "Somalia",
+      "decription": "cup cakes are awesome",
+      "catagory": "Main Course",
+      "prepTime": "50",
+      "serving": "2",
+      "ingredient": [
+        {
+          "ingredient": "Cats",
+          "unit": "units",
+          "amount": 1
+        },
+        {
+            "ingredient": "Rats",
+            "unit": "KG",
+            "amount": 1
+        },
+        {
+            "ingredient": "Bats",
+            "unit": "KG",
+            "amount": 2
+          }
+      ]
+    },
+    {
+      "title": "new recipie chicken",
+      "bestfor": "Lunch",
+      "picture": "",
+      "pictures": [
+        "newrecipiechicken_1565386604314.jpg",
+        "newrecipiechicken_1565386608938.jpg",
+        "newrecipiechicken_1565386614649.jpg",
+        "newrecipiechicken_1565386619221.jpg"
+      ],
+      "ingredients": [
+        "chicken",
+        "roast",
+        "new recipe",
+        "the beset"
+      ],
+      "steps": [
+        {
+          "detail": " i dont care wate u do. just get me a CHICKEN!"
+        }, 
+        {
+            "detail": " i dont care wate u do. just get me a CHICKEN!"
+        },
+        {
+            "detail": " i dont care wate u do. just get me a CHICKEN!"
+        },
+        {
+            "detail": " i dont care wate u do. just get me a CHICKEN!"
+        }
+
+      ],
+      "id": "5d4de79f584aa13488c3c334",
+      "authorId": "5d422343526a4b0bc9bb5994",
+      "country": "Ethiopa",
+      "decription": "Doro wat is a traditional Ethiopian meal. It is often served with other foods including braised beef and various vegetables. It is made up of many components and takes a long time to properly cook. This article explains how to create a traditional doro wat, serving up to six people when served with a few other vegetables on the side.",
+      "catagory": "Appetizers",
+      "prepTime": "5",
+      "serving": "2",
+      "ingredient": [
+        {
+          "ingredient": "Chicken",
+          "unit": "units",
+          "amount": 1
+        },
+        {
+            "ingredient": "Onion",
+            "unit": "KG",
+            "amount": 1
+        },
+        {
+            "ingredient": "Pepper",
+            "unit": "KG",
+            "amount": 2
+          }
+      ]
+    },
+    {
+      "title": "nikes",
+      "bestfor": "",
+      "picture": "",
+      "pictures": [],
+      "ingredients": [],
+      "steps": [
+        {
+          "detail": " "
+        }
+      ],
+      "id": "5d50976510341778f754c99e",
+      "authorId": "5d422343526a4b0bc9bb5994",
+      "country": "Albania",
+      "decription": "Dont even know where that is",
+      "catagory": "",
+      "prepTime": 0,
+      "serving": 0
+    },
+    {
+      "title": "cup cakes",
+      "bestfor": "Lunch",
+      "picture": "",
+      "pictures": [
+        "cupcakes_1565566024928.jpg"
+      ],
+      "ingredients": [
+        "[object Object]"
+      ],
+      "steps": [
+        {
+          "detail": "Eat the First Apple"
+        },
+        {
+          "detail": "Then Eat the Second Apple."
+        },
+        {
+          "detail": "Eat the Last Apple"
+        }
+      ],
+      "id": "5d50a4af10341778f754c99f",
+      "authorId": "5d422343526a4b0bc9bb5994",
+      "country": "United States",
+      "decription": "cup cakes are awesome",
+      "catagory": "Appetizers",
+      "prepTime": "5",
+      "serving": "2",
+      "ingredient": [
+        {
+          "ingredient": "Apples",
+          "unit": "units",
+          "amount": 3
+        }
+      ]
+    }
+  ]

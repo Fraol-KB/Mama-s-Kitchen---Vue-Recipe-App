@@ -1,0 +1,87 @@
+{
+  "name": "Recipe",
+  "plural": "Recipes",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "bestfor": {
+      "type": "string"
+    },
+    "country": {
+      "type": "string"
+    },
+    "decription": {
+      "type": "string"
+    },
+    "catagory": {
+      "type": "string"
+    },
+    "prepTime": {
+      "type": "string"
+    },
+    "serving": {
+      "type": "string"
+    },
+    "picture": {
+      "type": "string"
+    },
+    "pictures": {
+      "type": [
+        "string"
+      ]
+    },
+    "ingredients": {
+      "type": [
+        "string"
+      ]
+    },
+    "ingredient": {
+      "type": [
+        "object"
+      ]
+    },
+    "steps": {
+      "type": [
+        "object"
+      ]
+    },
+    "score": {
+      "type": "string"
+    }
+  },
+  "validations": [],
+  "relations": {
+    "author": {
+      "type": "belongsTo",
+      "model": "User",
+      "foreignKey": "",
+      "options": {
+        "nestRemoting": true
+      }
+    },
+    "reviews": {
+      "type": "hasMany",
+      "model": "Review",
+      "foreignKey": "",
+      "options": {
+        "nestRemoting": true
+      }
+    }
+  },
+  "acls": [
+    {
+      "accessType": "WRITE",
+      "principalType": "ROLE",
+      "principalId": "$unauthenticated",
+      "permission": "DENY"
+    }
+  ],
+  "methods": {}
+}
