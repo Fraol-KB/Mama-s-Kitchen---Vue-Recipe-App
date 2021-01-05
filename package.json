@@ -16,7 +16,7 @@
     "start": "parallelshell 'npm run build-client' 'npm run nodemon-start'"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "compression": "^1.0.3",
     "cors": "^2.5.2",
     "formidable": "^1.2.1",
