@@ -18,7 +18,7 @@
     "vue-router": "^3.0.3",
     "vue-social-sharing": "^2.4.6",
     "vue-video-player": "^5.0.2",
-    "vuetify": "^2.0.0",
+    "vuetify": "^2.6.10",
     "vuetify-media-player": "^0.8.1"
   },
   "devDependencies": {
